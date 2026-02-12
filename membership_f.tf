@@ -7,5 +7,5 @@ resource "github_membership" "niikura888" {
 }
 
 resource "github_membership" "fuyumi-goto" {
-  username = "fuyumi-goto" # fuyumi.goto@hakuhodody-one.co.jp
+  username = "fuyumi-goto" # fuyumi.goto@hakuhodody-one.co.jp / tech要らない
 }
