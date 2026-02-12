@@ -38,7 +38,7 @@ resource "github_membership" "tsubota-ryo" {
   username = "tsubota-ryo" #  ryo.tsubota@hakuhodody-media.co.jp
 }
 
-resource "github_membership" "ryuichi-hoshino" {
+resource "github_membership" "ryuichi-hoshino-dtvn" {
   username = "ryuichi-hoshino" # ryuichi.hoshino@hakuhodody-one.co.jp / 技術統括本部 情報システム局 業務システム開発部 / HOUSEI
 }
 
