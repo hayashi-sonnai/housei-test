@@ -1,4 +1,4 @@
-data "external" "terraform_show_github_team_id" {
+data "external" "terraform_show_github_team_id" { 
   program = [
     "/bin/sh",
     "${path.module}/terraform_show.sh"
