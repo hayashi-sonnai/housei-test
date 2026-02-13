@@ -1,5 +1,5 @@
 resource "github_membership" "aika-teruuchi" {
-  username = "aika-teruuchi" # aika.teruuchi@hakuhodody-one.co.jp / 技術統括本部 情報システム局 ＲＰＡ企画推進部 / ADPRO テスト
+  username = "aika-teruuchi" # aika.teruuchi@hakuhodody-one.co.jp / 技術統括本部 情報システム局 ＲＰＡ企画推進部 / ADPRO
 }
 
 resource "github_membership" "aimi-sato" {
