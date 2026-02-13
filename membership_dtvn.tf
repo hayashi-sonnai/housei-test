@@ -1,5 +1,5 @@
 resource "github_membership" "Bao-Nguyen-DAC" {
-  username = "Bao-Nguyen-DAC" # bao.nguyen@dac-datatech.vn / DTVN - Da Nang
+  username = "Bao-Nguyen-DAC" # bao.nguyen@dac-datatech.vn / DTVN - Da Nang Test
 }
 
 resource "github_membership" "bao-trandinh" {
