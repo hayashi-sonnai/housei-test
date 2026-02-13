@@ -6,6 +6,6 @@ resource "github_membership" "niikura888" {
   username = "niikura888" # fumiya.niikura@hakuhodody-one.co.jp
 }
 
-resource "github_membership" "fuyumi-goto-tech" {
-  username = "fuyumi-goto" # fuyumi.goto@hakuhodody-one.co.jp / tech
+resource "github_membership" "fuyumi-goto" {
+  username = "fuyumi-goto" # fuyumi.goto@hakuhodody-one.co.jp
 }
